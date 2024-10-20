@@ -1,0 +1,14 @@
+package core
+
+const (
+	BACKSPACE = 127
+	ARROW_UP  = 1000 + iota
+	ARROW_DOWN
+	ARROW_LEFT
+	ARROW_RIGHT
+	DEL_KEY
+	HOME_KEY
+	END_KEY
+	PAGE_UP
+	PAGE_DOWN
+)
