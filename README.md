@@ -1,8 +1,7 @@
 <div align="center" width="100%">
+     <img src="https://github.com/user-attachments/assets/6c5b2187-2f9b-4984-9a10-b3094e50f1db" width="100">
 </div>
 <h1 align="center">Lum</h1>
-
-Very simple and basic text editor written in go using ascii escape sequences to manipulate terminal output.
 
 # Installation
 ```
